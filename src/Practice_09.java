@@ -1,4 +1,4 @@
-//Switch Statements
+//Switch Statements / Selection Control Statement
 
 import java.util.Scanner;
 
