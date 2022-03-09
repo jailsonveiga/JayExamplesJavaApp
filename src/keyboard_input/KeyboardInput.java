@@ -10,10 +10,15 @@ public class KeyboardInput {
         String userInput = keyboard.nextLine();
         System.out.println("My name is: " + userInput);
 
+        System.out.println();
+
         System.out.println("How old are you?");
 
         int userInputOld = keyboard.nextInt();
-        System.out.println("I am: " + userInputOld + " years age");
+        System.out.println("I am: " + userInputOld + " years old");
 
+        System.out.println();
+
+        System.out.println("My name is " + userInput + " and I am " + userInputOld + " years old.");
     }
 }
