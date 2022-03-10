@@ -1,0 +1,14 @@
+                                        About Java
+
+-- Program is a set of list of commands. First, you execute the first command, then the second, then the third and so on. Once all the commands are executed, the program is finished.
+-- Programs written in Java are executed by the Java Virtual Machine (JVM)
+-- JVM is a special program that knows how to execute programs written in java
+-- Command in Java is part of a function "also call method"
+    -- Method is part of a class "Class is divided into method and method are divided into commands"
+-- What are variables?
+    -- A variable is a memory area for storing data
+    -- In java variables 3 important properties: type - name - value
+-- A Compiler is a special program that converts a program written in a programming language into a series of machine codes
+-- Arrays"
+    -- Is a data type that can store several values instead of just one
+    
